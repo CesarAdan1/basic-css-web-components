@@ -1,0 +1,37 @@
+//Marco Antonio Sandoval Espinosa
+*{
+	box-sizing: border-box;
+}
+body{
+	background: #FBF9F1;
+}
+div{
+	width: 438px;
+	margin: 100px auto;
+}
+.monotype_text{
+	font-size: 20px;
+	font-family:'Geneva', 'Ubuntu', sans-serif;
+	padding: 3px;
+	background: #000;
+	color: #fff;
+}
+.underline_text{
+	text-decoration: underline;
+}
+p{
+	font-family: Georgia, 'Palatino', serif;;
+	line-height: 1.5;
+}
+a{
+	text-decoration: none;
+	color: #77A8D2;
+}
+h1{
+	font-family: Georgia, 'Palatino', serif;;
+	font-weight: lighter;
+}
+h3{
+	font-family: Georgia, 'Palatino', serif;;
+	font-size: 20px;
+}
